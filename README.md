@@ -27,3 +27,6 @@ Proyecto 2 · Programación de Dispositivos Móviles · UPIIT-IPN
 ## Cómo compilar
     ./gradlew assembleDebug
     ./gradlew test
+
+### Autor 
+David Torres Gómez
