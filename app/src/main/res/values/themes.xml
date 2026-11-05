@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCompat es requerido por el diálogo de huella de androidx.biometric en APIs antiguas. -->
+    <style name="Theme.Animo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="colorPrimary">@color/grape</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+</resources>
