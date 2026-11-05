@@ -24,12 +24,6 @@ Proyecto 2 · Programación de Dispositivos Móviles · UPIIT-IPN
 - **Almacenamiento:** JSON cifrado con AES-256-GCM y llave en el Keystore, en lugar de Room. Por qué: …
 - **Privacidad:** todo el procesamiento es local.
 
-## Evaluación del módulo de IA
-| Modelo | F1 promedio (10 semillas) |
-|---|---|
-| Baseline ingenuo | 0.xx |
-| Motor de Ánimo | 0.xx |
-
 ## Cómo compilar
     ./gradlew assembleDebug
     ./gradlew test
