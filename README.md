@@ -6,12 +6,12 @@ Proyecto 2 · Programación de Dispositivos Móviles · UPIIT-IPN
 
 ## Descargas
 - 📱 APK: [Releases](../../releases/latest)
-- 🎬 Video del módulo de IA: https://youtu.be/XXXX
+- 🎬 Video del módulo de IA: ../../releases/latest
 
 ## Capturas
 | Hoy | Análisis | ¿Por qué veo esto? |
 |---|---|---|
-| ![](docs/capturas/hoy.png) | ![](docs/capturas/analisis.png) | ![](docs/capturas/porque.png) |
+| ![](docs/capturas/img1.png) | ![](docs/capturas/img2.png) | ![](docs/capturas/img4.png) |
 
 ## Funcionalidades
 - Nivel 1: estadísticas por semana y mes, tendencias de 7/30/90 días con media móvil, actividad vs. ánimo, …
