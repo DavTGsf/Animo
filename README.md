@@ -6,7 +6,13 @@ Proyecto 2 · Programación de Dispositivos Móviles · UPIIT-IPN
 
 ## Descargas
 - 📱 APK: [Releases](../../releases/latest)
-- 🎬 Video del módulo de IA: [Animo](../docs/capturas/animo.mp4)
+- 🎬 Video del módulo de IA: 
+
+https://github.com/user-attachments/assets/de344e49-ed88-4426-85fa-fad37447f2ae
+
+
+
+
 
 ## Capturas
 | Hoy | Análisis | ¿Por qué veo esto? |
